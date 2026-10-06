@@ -1,4 +1,4 @@
-# Persona 5 Card Guidebook — *The Velvet Compendium* (solution)
+# Persona 5 Card Guidebook 
 
 A Persona 5–styled single page app built with React + Vite. Beyond being a card guidebook,
 it is a teaching tool: the search screen runs a **binary search over parallel arrays** and
